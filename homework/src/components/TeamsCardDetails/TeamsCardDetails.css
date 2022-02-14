@@ -1,0 +1,88 @@
+.team-card-details {
+    display: flex;
+    max-width: 1140px;
+    height: 473px;
+    background: linear-gradient(276.45deg, #393939 0%, #707070 100.28%);
+    border-radius: 10px 10px 10px 10px;
+    flex-direction: column;
+}
+.team-card-details_title {
+    height: 69px;
+    width: 100%;
+    border: 0.5px solid #9C9C9C;
+    border-radius: 10px 10px 0px 0px;
+    background: #FFFFFF;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.team-card-details_title p {
+    padding-left: 32px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #E4163A;
+}
+.delete-actions {
+    padding-right: 21px;
+}
+.create-actions {
+    padding-right: 21px;
+}
+
+
+
+
+
+
+.team-card-details_body {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+.team-card-details_body p {
+    text-align: left;
+    color: white;
+    font-size: 18px;
+    margin: 0;
+    padding-top: 8px;
+}
+.team-card-details_body h2 {
+    text-align: left;
+    color: white;
+    font-size: 32px;
+    margin: 0;
+}
+.team-card-details_body h1 {
+    text-align: left;
+    color: white;
+    font-size: 36px;
+    margin: 0;
+}
+.team-card-details_body-logo {
+    padding-top: 97px;
+    width: 40%;
+}
+
+.team-card-details_body-info {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+
+}
+.team-name {
+    display: flex;
+    padding-top: 65px;
+}
+.team-info1 {
+    display: flex;
+    padding-top: 40px;
+}
+.team-info2 {
+    padding-top: 54px;
+}
+.team-info1_year {
+    padding-right: 84px;
+}
