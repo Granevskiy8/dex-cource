@@ -1,0 +1,50 @@
+.hamburger-menu {
+    height: 992px;
+    width: 140px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hamburger-menu__teams {
+    display: flex;
+    justify-content: center;
+}
+.hamburger-menu__players {
+    padding-top: 36px;
+    display: flex;
+    justify-content: center;
+}
+.hamburger-menu__item {
+    padding-top: 32px;
+}
+
+
+.hamburger-menu__item-logo {
+    fill: #9C9C9C;
+    cursor: pointer;
+}
+.atvite-item {
+    fill: #E4163A;
+}
+.active-text {
+    color: #E4163A !important;
+}
+.hamburger-menu__item-text {
+    font-size: 12px;
+    color: #9C9C9C;
+    line-height: 18px;
+    margin-top: 0;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+.out {
+    color: #FF768E;
+}
+
+
+.hamburger-menu__sing-out {
+    padding-bottom: 32px;
+    display: flex;
+    justify-content: center;
+}
