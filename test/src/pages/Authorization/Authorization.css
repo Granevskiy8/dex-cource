@@ -1,0 +1,58 @@
+.authorization {
+    display: flex;
+}
+.sing-in{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100vh;
+    background: white;
+}
+.sing-in-form {
+    width: 366px;
+}
+.sing-in-form h1 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 49px;
+    color: #344472;
+    margin: 0;
+}
+.sing-in-form__login {
+    padding-top: 24px;
+}
+.sing-in-form__password {
+    padding-top: 24px;
+}
+.sing-in-form__button {
+    padding-top: 24px;
+    display: flex;
+    justify-content: center;
+}
+.sing-in-form__link {
+    padding-top: 24px;
+    display: flex;
+    justify-content: center;
+}
+.sing-in-form__link p {
+    margin: 0;
+    color: #707070;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+.sing-in-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 100vh;
+    background: #F5FBFF;
+}
